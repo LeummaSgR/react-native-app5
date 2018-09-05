@@ -5,6 +5,4 @@ Um app de uma empresa fictícia para aprender e treinar a navegação entre cena
 
 O curso foi gravado em 2017 e na época o método de navegação entre cenas era outro. Neste app eu utilizei o [React Navigation](https://reactnavigation.org).
 
->Para baixar o apk procure a opção de download no meu [site](https://sammuelgr.github.io/home#apps).
-
->Mais detalhes do app [aqui](https://sammuelgr.github.io/apps#app5).
+>Para baixar o apk procure a opção de download no meu [site](https://sammuelgr.github.io/home#apps) ou diretamente na [release](https://github.com/SammuelGR/react-native-app5/releases).
